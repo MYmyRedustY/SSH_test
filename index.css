@@ -13,3 +13,8 @@ span {
 body {
 	background-color: #eee;
 }
+.banner {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #999;
+}
