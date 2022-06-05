@@ -4,9 +4,14 @@ div {
 	background-color: #bb67ff;
 }
 
-span{
+span {
 	display: block;
 	width: 300px;
 	height: 600px;
-	background-color:#baffff ;
+	background-color: #baffff;
+}
+.banner {
+	width: 800px;
+	margin: 0 auto;
+	background-color: #999;
 }
